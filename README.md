@@ -1,0 +1,2 @@
+# PokeApi
+Practicando FetchApi JS
